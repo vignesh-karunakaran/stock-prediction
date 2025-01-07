@@ -1,3 +1,3 @@
 ## Stock Prediction
 
-Stock prediction using numpy and tensorflow
+Stock prediction using numpy and tensorflow (LSTM & ARMA)
